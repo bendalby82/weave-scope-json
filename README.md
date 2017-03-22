@@ -19,3 +19,9 @@ http://stackoverflow.com/questions/42930707/split-multiple-property-values-in-js
 
 Ruby regular expression editor    
 http://rubular.com/    
+
+JQ Play  
+https://jqplay.org/  
+
+tsv and/or csv output support  
+https://github.com/stedolan/jq/issues/48  
